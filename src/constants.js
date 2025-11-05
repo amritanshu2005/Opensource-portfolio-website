@@ -132,7 +132,7 @@ Automatically pairs new players into separate matches using Socket.io.
 Implements game logic and rules using the Chess.js library for seamless gameplay.`,
     image:chesslogo ,
     tags: ["HTML", "CSS", "JavaScript", "React JS", "API", "Socket.io", "MongoDB", "Express", "Node.js"],
-    github: "https://github.com/yourusername/chess-game",
+    github: "https://github.com/amritanshu2005/Chess-Project",
   },
     {
       id: 1,
